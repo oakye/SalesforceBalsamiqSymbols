@@ -1,6 +1,6 @@
 Salesforce Balsamiq Symbols
 ===========================
-I have added additional symbols to what dhoechst originally provided on ![Github](https://github.com/dhoechst/SalesforceBalsamiqSymbols)
+I have added additional symbols to what dhoechst originally provided at https://github.com/dhoechst/SalesforceBalsamiqSymbols
 Thanks David!
 
 Symbols for use in Balsamiq that represent common Salesforce components.
